@@ -10,6 +10,10 @@
 - 随笔
 - 游记
 
+## 主题
+
+使用的是 [NexT](https://github.com/next-theme/hexo-theme-next) 主题。
+
 ## LICENSE
 
 除非另有说明，本仓库的内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。在遵守许可协议的前提下，您可以自由地分享、修改本文档的内容，但不得用于商业目的。
